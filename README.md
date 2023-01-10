@@ -7,6 +7,6 @@
    <li>https://ovomaltine.com.br/
 </ul>
 
-## Objetivo:]
+## Objetivo:
 
 Botar em prática meus conhecimentos de html e css adquiridos para tentar produzir uma landing page funcional.
